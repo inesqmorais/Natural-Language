@@ -1,0 +1,70 @@
+0	22	zero	0
+22	21	horas	0
+22	21	eps	0	1
+0	1	uma	0
+1	21	hora	1
+1	21	eps	1	1
+0	2	duas	0
+2	21	horas	2
+2	21	eps	2	1
+0	3	tres	0
+3	21	horas	3
+3	21	eps	3	1
+0	4	quatro	0
+4	21	horas	4
+4	21	eps	4	1
+0	5	cinco	0
+5	21	horas	5
+5	21	eps	5	1
+0	6	seis	0
+6	21	horas	6
+6	21	eps	6	1
+0	7	sete	0
+7	21	horas	7
+7	21	eps	7	1
+0	8	oito	0
+8	21	horas	8
+8	21	eps	8	1
+0	9	nove	0
+9	21	horas	9
+9	21	eps	9	1
+0	10	dez	1
+10	21	horas	0
+10	21	eps	0	1
+0	11	onze	1
+11	21	horas	1
+11	21	eps	1	1
+0	12	doze	1
+12	21	horas	2
+12	21	eps	2	1
+0	13	treze	1
+13	21	horas	3
+13	21	eps	3	1
+0	14	catorze	1
+14	21	horas	4
+14	21	eps	4	1
+0	15	quinze	1
+15	21	horas	5
+15	21	eps	5	1
+0	16	dezasseis	1
+16	21	horas	6
+16	21	eps	6	1
+0	17	dezassete	1
+17	21	horas	7
+17	21	eps	7	1
+0	18	dezoito	1
+18	21	horas	8
+18	21	eps	8	1
+0	19	dezanove	1
+19	21	horas	9
+19	21	eps	9	1
+0	20	vinte	2
+20	23	e eps
+20	21	eps 	0	1
+20	21	horas	0
+23	24	uma	1
+23	24	duas	2
+23	24	tres	3
+24	21	horas	eps
+24	21	eps	eps	1
+21
